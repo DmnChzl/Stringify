@@ -1,0 +1,20 @@
+{
+  "name": "@dmnchzl/stringify",
+  "version": "0.1.0",
+  "description": "Utilities for string transformation",
+  "author": "Damien Chazoule <dmnchzl@pm.me>",
+  "repository": "https://github.com/dmnchzl/stringify.git",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: No Test Specified Yet\" && exit 1"
+  },
+  "keywords": [
+    "string",
+    "camelcase",
+    "pascalcase",
+    "kebabcase",
+    "snakecase",
+    "utils"
+  ],
+  "license": "WTFPL"
+}
